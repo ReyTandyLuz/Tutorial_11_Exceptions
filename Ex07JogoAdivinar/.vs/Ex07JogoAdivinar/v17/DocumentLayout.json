@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89768CEE-B893-43F8-9992-AB7D9C7426A8}|Ex07JogoAdivinar\\Ex07JogoAdivinar.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t11exepciones\\ex07jogoadivinar\\ex07jogoadivinar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89768CEE-B893-43F8-9992-AB7D9C7426A8}|Ex07JogoAdivinar\\Ex07JogoAdivinar.csproj|solutionrelative:ex07jogoadivinar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89768CEE-B893-43F8-9992-AB7D9C7426A8}|Ex07JogoAdivinar\\Ex07JogoAdivinar.csproj|C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\ex07jogoadivinar\\entities\\tentativasesgotadasexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89768CEE-B893-43F8-9992-AB7D9C7426A8}|Ex07JogoAdivinar\\Ex07JogoAdivinar.csproj|solutionrelative:ex07jogoadivinar\\entities\\tentativasesgotadasexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89768CEE-B893-43F8-9992-AB7D9C7426A8}|Ex07JogoAdivinar\\Ex07JogoAdivinar.csproj|C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\ex07jogoadivinar\\entities\\numeroinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89768CEE-B893-43F8-9992-AB7D9C7426A8}|Ex07JogoAdivinar\\Ex07JogoAdivinar.csproj|solutionrelative:ex07jogoadivinar\\entities\\numeroinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TentativasEsgotadasException.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\Ex07JogoAdivinar\\Entities\\TentativasEsgotadasException.cs",
+              "RelativeDocumentMoniker": "Ex07JogoAdivinar\\Entities\\TentativasEsgotadasException.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\Ex07JogoAdivinar\\Entities\\TentativasEsgotadasException.cs",
+              "RelativeToolTip": "Ex07JogoAdivinar\\Entities\\TentativasEsgotadasException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:58:58.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumeroInvalidoException.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\Ex07JogoAdivinar\\Entities\\NumeroInvalidoException.cs",
+              "RelativeDocumentMoniker": "Ex07JogoAdivinar\\Entities\\NumeroInvalidoException.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\Ex07JogoAdivinar\\Entities\\NumeroInvalidoException.cs",
+              "RelativeToolTip": "Ex07JogoAdivinar\\Entities\\NumeroInvalidoException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:55:50.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\Ex07JogoAdivinar\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07JogoAdivinar\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex07JogoAdivinar\\Ex07JogoAdivinar\\Program.cs",
+              "RelativeToolTip": "Ex07JogoAdivinar\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:40:19.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

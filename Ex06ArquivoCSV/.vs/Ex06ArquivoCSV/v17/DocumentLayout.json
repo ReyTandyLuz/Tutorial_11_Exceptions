@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex06ArquivoCSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AFD80-D251-4AB4-B2DA-AB81972FAF53}|Ex06ArquivoCSV\\Ex06ArquivoCSV.csproj|c:\\users\\aemaximinos\\documents\\psi\\11\\t11exepciones\\ex06arquivocsv\\ex06arquivocsv\\entities\\manipuladorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6AFD80-D251-4AB4-B2DA-AB81972FAF53}|Ex06ArquivoCSV\\Ex06ArquivoCSV.csproj|solutionrelative:ex06arquivocsv\\entities\\manipuladorcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6AFD80-D251-4AB4-B2DA-AB81972FAF53}|Ex06ArquivoCSV\\Ex06ArquivoCSV.csproj|C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex06ArquivoCSV\\ex06arquivocsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6AFD80-D251-4AB4-B2DA-AB81972FAF53}|Ex06ArquivoCSV\\Ex06ArquivoCSV.csproj|solutionrelative:ex06arquivocsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManipuladorCSV.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex06ArquivoCSV\\Ex06ArquivoCSV\\Entities\\ManipuladorCSV.cs",
+              "RelativeDocumentMoniker": "Ex06ArquivoCSV\\Entities\\ManipuladorCSV.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex06ArquivoCSV\\Ex06ArquivoCSV\\Entities\\ManipuladorCSV.cs",
+              "RelativeToolTip": "Ex06ArquivoCSV\\Entities\\ManipuladorCSV.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:57:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex06ArquivoCSV\\Ex06ArquivoCSV\\Program.cs",
+              "RelativeDocumentMoniker": "Ex06ArquivoCSV\\Program.cs",
+              "ToolTip": "C:\\Users\\AEMaximinos\\Documents\\PSI\\11\\T11Exepciones\\Ex06ArquivoCSV\\Ex06ArquivoCSV\\Program.cs",
+              "RelativeToolTip": "Ex06ArquivoCSV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:49:54.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
